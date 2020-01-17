@@ -1,3 +1,4 @@
-# taskManager
- 
- !(https://github.com/vaibhavrkumar/taskManager/blob/master/views/img0.png)
+--Add a Task--
+![](views/img0.5.png)
+--Added--
+![](views/img1.png)
